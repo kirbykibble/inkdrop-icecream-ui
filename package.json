@@ -1,11 +1,12 @@
 {
   "name": "ice-cream-ui",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "theme": "ui",
   "description": "Ice Cream UI Theme for Inkdrop",
   "styleSheets": [
     "theme.min.css"
   ],
+  "repository": "https://github.com/kirbykibble/inkdrop-icecream-ui",
   "scripts": {
     "run": "gulp",
     "build": "gulp build"

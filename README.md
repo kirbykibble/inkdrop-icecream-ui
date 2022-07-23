@@ -1,9 +1,6 @@
-# Default Light UI Theme for Inkdrop
+# Ice Cream UI Theme for Inkdrop
 
-Inkdrop's UI elements are styled based on [Semantic UI](http://semantic-ui.com/).
-It's mostly common in customizing the theme with it, so [their documentation](http://learnsemantic.com/) is very helpful to get started.
-
-Read [the documentation](http://doc.inkdrop.info/manual/creating-a-theme) for detailed instructions.
+Forked from [Inkdrop's default light theme](https://github.com/inkdropapp/inkdrop-default-light-ui-theme)
 
 ## How to build
 
@@ -11,20 +8,3 @@ Read [the documentation](http://doc.inkdrop.info/manual/creating-a-theme) for de
 npm install
 npm build
 ```
-
-## Which files to edit
-
-- `src/site/globals/site.variables`
-  - Variables for Inkdrop-specific components
-- `src/site/globals/site.overrides`
-  - Declarations of CSS variables
-- `src/themes/default/globals/site.variables`
-  - Common variables
-
-#E6ECED
-#D9EDE5
-#EDC2D5
-#EDD6C2
-#CEEDCF
-
-#FFEBF4
