@@ -8,3 +8,6 @@ Forked from [Inkdrop's default light theme](https://github.com/inkdropapp/inkdro
 npm install
 npm build
 ```
+
+## Screenshot
+![Screenshot1](./resources/screenshot.PNG)
